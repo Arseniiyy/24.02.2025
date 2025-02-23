@@ -1,0 +1,13 @@
+div {
+    height: 200px;
+    background: radial-gradient(red, blue);
+  }
+  body p{
+    padding: 100px 10px 1px 350px;
+  }
+    
+}
+webkit- /*Для Google chrome,Safari, Microsoft Edge, Opera выше 15 серии*/
+moz- /* Для mozilla Firefox */
+o- /*Для opera старше 15 версии(Opera 12)*/
+}
